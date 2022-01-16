@@ -1,0 +1,92 @@
+body {
+  font-family: Montserrat ;
+
+}
+#gradient{
+background: #ff0000;
+background: -moz-radial-gradient(center, ellipse cover, #FF843C, #FFB386);
+background: -webkit-linear-gradient(top, #FF843C, #FFB386);
+background: -o-linear-gradient(top, #FF843C, #FFB386);
+background: -ms-linear-gradient(top, #FF843C, #FFB386);
+width: auto;
+height: auto;
+border: 1px solid #FF823A;
+}
+
+#title {
+  background: #FF7A2C;
+  color: #b2aeb2;
+  font-family: "The Nautigal", cursive;
+  border: 1px solid #FF823A;
+}
+
+h1 {
+  font-family:"The Nautigal", cursive;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1;
+}
+
+h4 {
+  font-weight: bold;
+  padding-left:15px;
+  color: #000;
+}
+
+p {
+  color: #000;
+}
+
+.use {
+    color: #aa064b;
+
+}
+.web {
+    color: #429595;
+}
+
+.container-fluid {
+  padding: 0 15%;
+
+}
+
+
+/* Navbar Section */
+
+.navbar-brand {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+
+.nav-item {
+  padding: 0 15px;
+  font-weight: lighter;
+  font-size: 2.2rem;
+
+}
+
+
+/* Features */
+
+#features {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.icon {
+  margin-bottom: 1.5rem;
+  color: #ef8172;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+#button {
+
+  padding-left: 255px ;
+}
+.download-button {
+  margin: 3% 5% 0 0;
+}
